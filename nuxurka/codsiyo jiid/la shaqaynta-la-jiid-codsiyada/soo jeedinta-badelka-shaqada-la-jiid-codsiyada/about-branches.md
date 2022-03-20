@@ -79,4 +79,4 @@ When a branch is protected:
 
 - "[About pull requests](/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)"
 - "[Branch](/articles/github-glossary/#branch)" in the {% data variables.product.prodname_dotcom %} glossary
-- "[Branches in a Nutshell](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)" in the Git documentation
+- "[Branches in a Nutshell](https://jeyharbogit-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)" in the Git documentation
